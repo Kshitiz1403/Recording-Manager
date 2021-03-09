@@ -6,4 +6,4 @@ So randomly sitting on the couch I thought of an idea to automate this process a
 A Python Script to automate the process.
 
 The program copies the file from Sharepoint's synced folder to a Onedrive Folder using os and shutil module.
-Once the file is copied, the program then renames the copied file to a fixed format of [09 Mar Maths.mp4] and then the file is uploaded to OneDrive.
+Once the file is copied, the program then renames the copied file to a fixed format like [09 Mar Maths.mp4] and then the file is uploaded to OneDrive.
