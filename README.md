@@ -1,7 +1,7 @@
 # Recording-Manager
 A Python Script to automatically download Teams Recordings to local system and then upload it to onedrive after renaming it.
 
-After every class, I had to manually download, rename and then upload the recording to my OneDrive. I found this really tedious and to do it for 3 classes daily was such a headache.
+After every online class, I had to manually download, rename and then upload the recording from MS Teams to my OneDrive folder. I found this really tedious and to do it for 3 classes daily was such a headache. 
 So randomly sitting on the couch I thought of an idea to automate this process and here it is!
 
 
